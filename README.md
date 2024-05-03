@@ -1,16 +1,13 @@
-### Hi there 👋
+### Boas Vindas ao Meu Perfil 👋
 
-<!--
-**zericardogomes/zericardogomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu Nome é José Ricardo
 
-Here are some ideas to get you started:
+- Estou aprendendo com o Alura
+- Estou me desenvolvendo na linguagem JavaScrip e MarkDown
+- Utilizo este espaço para minha organização e compartilhamento de meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo por 📧
+
+jrgomes@prof.educacao.sp.gov.br
+
+![](https://media.tenor.com/Y5TYcjIzmGUAAAAM/voce-consegue-aprender-sim-rafael-procopio.gif)
